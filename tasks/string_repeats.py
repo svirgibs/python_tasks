@@ -20,4 +20,3 @@ while index < len(st_lst):
 
 # Вывод результата
 print(final_lst)
-
